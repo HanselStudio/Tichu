@@ -1,0 +1,62 @@
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.deps.json
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.dll
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.pdb
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.csproj.CoreCompileInputs.cache
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfoInputs.cache
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfo.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.dll
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.pdb
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/JoinGame.xaml.g.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Lobby.xaml.g.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.csprojAssemblyReference.cache
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/GamePage.xaml.g.cs
+C:/Users/p_hae/source/repos/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/ClientPage.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.deps.json
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.dll
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.pdb
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.csprojAssemblyReference.cache
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/ClientPage.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/GamePage.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/JoinGame.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Lobby.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfoInputs.cache
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfo.cs
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.dll
+/Users/haensel/Documents/OneDrive - ETHZ/Tichu/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.pdb
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.deps.json
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.dll
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/bin/Debug/netstandard2.0/Tichu.pdb
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.csprojAssemblyReference.cache
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/ClientPage.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/GamePage.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/JoinGame.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Lobby.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfoInputs.cache
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.AssemblyInfo.cs
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.dll
+/Users/haensel/Documents/Tichu copy/Tichu/Tichu/obj/Debug/netstandard2.0/Tichu.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\bin\Debug\netstandard2.0\Tichu.deps.json
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\bin\Debug\netstandard2.0\Tichu.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\bin\Debug\netstandard2.0\Tichu.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Tichu.csprojAssemblyReference.cache
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\ClientPage.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\GamePage.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\JoinGame.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Lobby.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Tichu.AssemblyInfoInputs.cache
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Tichu.AssemblyInfo.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Tichu.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Tichu.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu\obj\Debug\netstandard2.0\Scanner.xaml.g.cs

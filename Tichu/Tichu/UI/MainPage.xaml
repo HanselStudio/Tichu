@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Tichu"
+             x:Class="Tichu.MainPage">
+
+    <StackLayout>
+        <Label Text="TICHU!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button  Text="Host a Game" Clicked="StartLob"/>
+        <Button Text="Join" Clicked="StartJoin"/>
+        <!-- Place new controls here -->
+        
+    </StackLayout>
+
+
+</ContentPage>
+

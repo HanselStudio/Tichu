@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxcm="clr-namespace:ZXing.Common;assembly=zxing.portable"
+             x:Class="Tichu.Lobby"
+             NavigationPage.HasNavigationBar="false">
+  <ContentPage.Content>
+
+        <RelativeLayout>
+            <Image RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.5,
+                             Constant=-100}"  Source="table.PNG" Scale="4" />
+
+            <Label RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.5,
+                             Constant=-70}" 
+                    RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             
+                             Property=Height,
+                             Factor=0,
+                             Constant=-20}"
+                   Text="Tichu Gamelobby" Margin="0,25,0,0" TextColor="#000000" FontSize="Large" HorizontalOptions="Center" />
+            
+            <Grid  x:Name="main" BackgroundColor="White" Margin="10,50,10,5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    
+                   
+                </Grid.RowDefinitions>
+                
+                <Label Grid.Row="0" Grid.Column="0" x:Name="IpLabel" Text="IP: " Margin="5,0,0,0" />
+
+                <Label Grid.Row="0" Grid.Column="1" x:Name="StatusLabel" Text="Not Connected" />
+                <Label Grid.Row="1"  Text="Name" Margin="5,0,0,0" />
+                <Label Grid.Row="1" Grid.Column="1"  Text="Ping" />
+                <Label Grid.Row="1" Grid.Column="2"  Text="Team" />
+                <Label Grid.Row="2" x:Name="PlayerLabel1" Text="Not Connected" Margin="5,0,0,0" />
+                <Label Grid.Row="2" Grid.Column="1" x:Name="Ping1" Text="0ms" TextColor="Green"/>
+
+                <Button Grid.Row="2" Grid.Column="2" x:Name="P1T" Text="1" />
+                <Label Grid.Row="3" x:Name="PlayerLabel2" Text="Not Connected" Margin="5,0,0,0" />
+                <Label Grid.Row="3" Grid.Column="1" x:Name="Ping2" Text="0ms" TextColor="Green"/>
+                <Button Grid.Row="3" Grid.Column="2" x:Name="P2T" Text="1" />
+                <Label Grid.Row="4" x:Name="PlayerLabel3" Text="Not Connected" Margin="5,0,0,0" />
+                <Label Grid.Row="4" Grid.Column="1" x:Name="Ping3" Text="0ms" TextColor="Green"/>
+                <Button Grid.Row="4" Grid.Column="2" x:Name="P3T" Text="2" />
+                <Label Grid.Row="5" x:Name="PlayerLabel4" Text="Not Connected" Margin="5,0,0,0" />
+                <Label Grid.Row="5" Grid.Column="1" x:Name="Ping4" Text="0ms" TextColor="Green"/>
+                <Button Grid.Row="5" Grid.Column="2" x:Name="P4T" Text="2" />
+            
+            </Grid>
+            <Button RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=1,
+                             Constant=-100}"
+    RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             
+                             Property=Height,
+                             Factor=1,
+                             Constant=-50}" x:Name="playButton" Text="Play" Clicked="start" BackgroundColor="#FF0000"  />
+            <Button RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=1,
+                             Constant=-100}" Text="leave" Clicked="leave"/>
+
+            <zxing:ZXingBarcodeImageView x:Name="QRCode" WidthRequest="300" HeightRequest="300" BarcodeValue="1337" BarcodeFormat="QR_CODE" RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0,
+                             Constant=0}" 
+                    RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             
+                             Property=Height,
+                             Factor=1,
+                             Constant=-300}">
+                <zxing:ZXingBarcodeImageView.BarcodeOptions>
+                    <zxcm:EncodingOptions Width="300" Height="300" />
+                </zxing:ZXingBarcodeImageView.BarcodeOptions>
+            </zxing:ZXingBarcodeImageView>
+        </RelativeLayout>
+
+    </ContentPage.Content>
+</ContentPage>

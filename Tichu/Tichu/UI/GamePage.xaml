@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tichu.GamePage"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+    
+            
+           
+        <Grid Margin="0">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" ></RowDefinition>
+                <RowDefinition Height="10*" ></RowDefinition>
+                <RowDefinition Height="4*" ></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+            <Image Grid.RowSpan="2" Scale="3.5" Grid.Row="1"  Source="table.png" />
+            <StackLayout Grid.Row="0" HorizontalOptions="Start" VerticalOptions="FillAndExpand" >
+                <Label Text="Points:"  BackgroundColor="WhiteSmoke" />
+                <Label x:Name="PointsT1" Text="Team1: 0"  BackgroundColor="WhiteSmoke" />
+                <Label x:Name="PointsT2" Text="Team2: 0"  BackgroundColor="WhiteSmoke" />
+            </StackLayout>
+            
+
+
+            <StackLayout Grid.Row="0" VerticalOptions="Start" HorizontalOptions="End" >
+
+                <Label x:Name="turnLable" Text="" BackgroundColor="WhiteSmoke" Margin="5,0,0,0"/>
+                <Label Text="has a turn" BackgroundColor="WhiteSmoke" Margin="5,0,0,0"/>
+            </StackLayout>
+            <RelativeLayout Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" >
+                
+                <Image x:Name="Card4" Source="" VerticalOptions="Center" HorizontalOptions="Center" Scale="0.5" Rotation="-90" />
+                <Image x:Name="Card3" Source="" VerticalOptions="Center" HorizontalOptions="Center" Scale="0.5" Rotation="-75" />
+                <Image x:Name="Card2" Source="" VerticalOptions="Center" HorizontalOptions="Center" Scale="0.5" Rotation="-50" />
+                <Image x:Name="Card1" Source="" VerticalOptions="Center" HorizontalOptions="Center" Scale="0.5" Rotation="-25" />
+                <Image x:Name="Card0" Source="" VerticalOptions="Center" HorizontalOptions="Center" Scale="0.5" />
+            </RelativeLayout>
+            <Grid Grid.Row="2" HorizontalOptions="Center" VerticalOptions="End" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout Grid.Column="15"  HorizontalOptions="End" BackgroundColor="WhiteSmoke">
+                    <Label Text="Team 2" Margin="5,0,0,0" />
+                    <Label x:Name="T2P1" Text="Player 2: 14 Cards 0 Points" Margin="5,0,0,0" />
+                    <Label x:Name="T2P2" Text="Player 4: 14 Cards 0 Points" Margin="5,0,0,0" />
+                </StackLayout>
+                <Image Grid.Column="14" x:Name="Card18" Source="" Scale="1"/>
+                <Image Grid.Column="13" x:Name="Card17" Source="" Scale="1"/>
+                <Image Grid.Column="12" x:Name="Card16" Source="" Scale="1"/>
+                <Image Grid.Column="11" x:Name="Card15" Source="" Scale="1"/>
+                <Image Grid.Column="10" x:Name="Card14" Source="" Scale="1"/>
+                <Image Grid.Column="9" x:Name="Card13" Source="" Scale="1"/>
+                <Image Grid.Column="8" x:Name="Card12" Source="" Scale="1"/>
+                <Image Grid.Column="7" x:Name="Card11" Source="" Scale="1"/>
+                <Image Grid.Column="6" x:Name="Card10" Source="" Scale="1"/>
+                <Image Grid.Column="5" x:Name="Card9" Source="" Scale="1"/>
+                <Image Grid.Column="4" x:Name="Card8" Source="" Scale="1"/>
+                <Image Grid.Column="3" x:Name="Card7" Source="" Scale="1"/>
+                <Image Grid.Column="2" x:Name="Card6" Source="" Scale="1"/>
+                <Image Grid.Column="1" x:Name="Card5" Source="" Scale="1"/>
+
+
+                <StackLayout Grid.Column="0" BackgroundColor="WhiteSmoke">
+                    <Label Text="Team 1" />
+                    <Label x:Name="T1P1" Text="Player 1: 14 Cards 0 Points" />
+                    <Label x:Name="T1P2" Text="Player 3: 14 Cards 0 Points" />
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

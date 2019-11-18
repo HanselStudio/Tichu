@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tichu.ClientPage"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <Grid>
+            
+            <Label Text="Your Cards" x:Name="lable"
+                
+                HorizontalOptions="Center" Grid.Row="1" />
+            
+            <StackLayout HorizontalOptions="Fill" Orientation="Horizontal" Grid.Row="0">
+                <Label x:Name="Name" Text="Your Name" HorizontalOptions="Start" VerticalOptions="Start" />
+                <Label x:Name="yPoint" Text="Your Points: 0" HorizontalOptions="Start" VerticalOptions="Start" />
+                <Label Text="Friends Points: 0" HorizontalOptions="Start" VerticalOptions="Start" />
+                <Label Text="Player 1's Turn" HorizontalOptions="End" VerticalOptions="Start" />
+            </StackLayout>
+            <RelativeLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Grid.Row="2">
+
+                
+                <ImageButton x:Name="c0" Source="b2.png" Scale="0.25" Rotation="90" TranslationX="145" TranslationY="80" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c1" Source="b2.png" Scale="0.25" Rotation="75" TranslationX="130" TranslationY="60" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c2" Source="b2.png" Scale="0.25" TranslationX="115" Rotation="60" TranslationY="40" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c3" Source="b2.png" Scale="0.25" TranslationX="90" Rotation="45" TranslationY="20" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c4" Source="b2.png" Scale="0.25" TranslationX="65" Rotation="30" TranslationY="10" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c5" Source="b2.png" Scale="0.25" Rotation="15" TranslationX="40" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c6" Source="b2.png" Scale="0.25" TranslationX="15" TranslationY="-5" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c7" Source="b2.png" Scale="0.25" TranslationX="-15" TranslationY="-5" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c8" Source="b2.png" Scale="0.25" Rotation="-15" TranslationX="-40" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c9" Source="b2.png" Scale="0.25" TranslationX="-65" Rotation="-30" TranslationY="10" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c10" Source="b2.png" Scale="0.25" Rotation="-45" TranslationX="-90" TranslationY="20" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c11" Source="b2.png" Scale="0.25" Rotation="-60" TranslationX="-115" TranslationY="40" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c12" Source="b2.png" Scale="0.25" TranslationX="-130" Rotation="-75" TranslationY="60" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <ImageButton x:Name="c13" Source="b2.png" Scale="0.25" TranslationX="-145" Rotation="-90" TranslationY="80" Clicked="imageClicked" Pressed="ImageButton_Pressed" Released="ImageButton_Released"/>
+                <Image x:Name="show"  Source="" Scale="0.5" />
+
+                
+            </RelativeLayout>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                
+            <Button Grid.Column="1" Text="Play Card(s)" VerticalOptions="EndAndExpand" HorizontalOptions="Fill"  Margin="5" Clicked="Button_Clicked"/>
+            <Button Grid.Column="2" Text="Pass" VerticalOptions="EndAndExpand" HorizontalOptions="Fill"  Margin="5" Clicked="Button_Clicked_1"/>
+
+            </Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="10*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                
+            </Grid.RowDefinitions>
+            
+        </Grid>
+        
+
+    </ContentPage.Content>
+</ContentPage>

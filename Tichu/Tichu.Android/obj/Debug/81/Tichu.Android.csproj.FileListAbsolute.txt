@@ -1,0 +1,800 @@
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\com.companyname.Tichu.apk
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\com.companyname.Tichu-Signed.apk
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Mono.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\mscorlib.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Numerics.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Xml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Mono.Security.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Data.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Transactions.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\build.props
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\adb.props
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.csprojAssemblyReference.cache
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\resourcepaths.cache
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res.flag
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.csproj.CoreCompileInputs.cache
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\XamlC.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.csproj.CopyComplete
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\bin\com.companyname.Tichu.apk
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\values\styles.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\values\colors.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\R.cs.flag
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\R.txt
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\uploadflags.txt
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\resolvedassemblies.hash
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\FormsViewGroup.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\link.flag
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\machine.config
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b2.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b3.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b4.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b5.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b6.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b7.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b8.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b9.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r2.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r3.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r4.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r5.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r6.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r7.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r8.png
+C:\Users\p_hae\source\repos\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r9.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\com.companyname.Tichu.apk
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\com.companyname.Tichu-Signed.apk
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\build.props
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\adb.props
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.csprojAssemblyReference.cache
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\resourcepaths.cache
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res.flag
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\b94045ccc35f4019a864dbe8983117bddfc0461b.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\ca8e72fa917e4c3a8534a85a4510f17fe02eeb41.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\e60de5dcbfe650e990008c3d93c874607401a836.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\b94045ccc35f4019a864dbe8983117bddfc0461b.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\ca8e72fa917e4c3a8534a85a4510f17fe02eeb41.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\e60de5dcbfe650e990008c3d93c874607401a836.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\compiled.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\R.txt
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\R.cs.flag
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\XamlC.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.csproj.CopyComplete
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\Tichu.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\bin\com.companyname.Tichu.apk
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b2.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b3.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b4.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b5.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b6.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b7.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b8.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b9.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\values\styles.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\values\colors.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r2.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r3.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r4.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r5.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r6.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r7.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r8.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r9.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\uploadflags.txt
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\resolvedassemblies.hash
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\FormsViewGroup.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Runtime.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Drawing.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Tichu.dll.mdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\link.flag
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Drawing.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Tichu.dll.mdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.jm.arm64-v8a.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.jm.armeabi-v7a.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.jm.x86.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.jm.x86_64.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.mj.arm64-v8a.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.mj.armeabi-v7a.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.mj.x86.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\typemap.mj.x86_64.s
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\machine.config
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\bin\mono.android.jar
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\static.flag
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\buildid.txt
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\mediarouter\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\cardview\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\transition\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\mediacompat\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\design\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\android\support\compat\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md54f7357e6e6ff13df0e0bf852fb96c033\MainActivity.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\bin\packaged_resources
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\com\companyname\tichu\R.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\bin\classes.dex
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_ConvertCustomView.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\0447a935afa7a347ec9419f7d987831f4359bc81.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\6753ce09bdfcba99b45e1d42de226f4073121081.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\0447a935afa7a347ec9419f7d987831f4359bc81.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\6753ce09bdfcba99b45e1d42de226f4073121081.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\b10.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\ba.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\bj.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\bk.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\bq.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g2.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g3.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g4.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g5.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g6.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g7.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g8.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g9.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\g10.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\ga.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\gj.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\gk.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\gq.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\r10.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\ra.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\rj.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\rk.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\rq.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s2.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s3.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s4.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s5.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s6.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s7.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s8.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s9.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\s10.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\sa.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\sj.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\sk.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\sq.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\res\drawable\table.png
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\e13aa311b442d22c448d783b909eacc326b9f9f6.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\28f8ab85e1c8f833cdaaefcd43d9ce522957915a.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\64269e0967294ff222bef88d8dd3c7ea156cba6a.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\1dd117c23911bea33e712b552d8f7e11eba45054.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\f650b5ad3868983bfa3c37e66dde847d18ad8b05.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\e13aa311b442d22c448d783b909eacc326b9f9f6.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\28f8ab85e1c8f833cdaaefcd43d9ce522957915a.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\64269e0967294ff222bef88d8dd3c7ea156cba6a.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\1dd117c23911bea33e712b552d8f7e11eba45054.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\f650b5ad3868983bfa3c37e66dde847d18ad8b05.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\FastAndroidCamera.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\ZXing.Net.Mobile.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\zxing.portable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\ZXingNetMobile.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Threading.Tasks.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Collections.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Runtime.Extensions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Diagnostics.Debug.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Text.Encoding.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.IO.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Text.RegularExpressions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Threading.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.Globalization.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\FastAndroidCamera.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Collections.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Globalization.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.IO.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Text.Encoding.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Text.RegularExpressions.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Threading.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Core.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\zxing.portable.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\ZXingNetMobile.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5d06a077489831141efe6f537ac3ef2f5\CameraEventsListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5bb098716dd46c8e113564e6b42b7cde9\ActivityLifecycleContextListener.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5bb098716dd46c8e113564e6b42b7cde9\ZxingActivity.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5bb098716dd46c8e113564e6b42b7cde9\ZxingOverlayView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5bb098716dd46c8e113564e6b42b7cde9\ZXingScannerFragment.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5bb098716dd46c8e113564e6b42b7cde9\ZXingSurfaceView.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\bin\Debug\Tichu.dll.mdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\d6ed1b5c56107f29c225a684090560e58dfb28de.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\d6ed1b5c56107f29c225a684090560e58dfb28de.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\ZXing.Net.Mobile.Forms.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\System.ObjectModel.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\System.ObjectModel.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\ZXing.Net.Mobile.Forms.dll
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md508a116ab629a9168c5f121b9962d8ce6\ZXingBarcodeImageViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md508a116ab629a9168c5f121b9962d8ce6\ZXingScannerViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\08570505fcdeeafb6baa2c1963eba3ecd07d4344.stamp
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\flata\08570505fcdeeafb6baa2c1963eba3ecd07d4344.flata
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\linksrc\Xamarin.Essentials.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\assets\Xamarin.Essentials.pdb
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselSpacingItemDecoration.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupableItemsViewAdapter_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupableItemsViewRenderer_3.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer_3.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\RefreshViewRenderer.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer_3.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StructuredItemsViewAdapter_2.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StructuredItemsViewRenderer_3.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\xamarin\essentials\fileProvider.java
+C:\Users\p_hae\OneDrive - ETHZ\Tichu\Tichu\Tichu.Android\obj\Debug\81\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener_2.java

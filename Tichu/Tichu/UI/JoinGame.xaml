@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tichu.JoinGame">
+    <ContentPage.Content>
+      <StackLayout>
+
+            <Label Text="Enter Your Name!" HorizontalOptions="Center" FontSize="Large" TextColor="#000000" Margin="0,25,0,0" />
+            <Entry  Text="" Placeholder="Typ in your" x:Name="NameEditor"/>
+            <Label Text="Enter Host IP:" FontSize="Large" TextColor="#080202" Margin="0,50,0,0" HorizontalOptions="CenterAndExpand" />
+            <Entry Text="" Placeholder="192.168.1.73" x:Name="IpEditor" />
+            <Button Text="Join" Clicked="StartLob"/>
+
+           
+            <StackLayout Spacing="10">
+                <Button Text="Scan QR"  
+                x:Name="btnScan"  
+                Clicked="btnScan_Clicked"/>
+                
+            </StackLayout>
+          
+        </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
